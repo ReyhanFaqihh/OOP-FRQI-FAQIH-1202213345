@@ -15,7 +15,7 @@ public class Server {
 
         Menu menu2 = new Menu();
         menu2.setNamaMenu("Nasi PerJosu");
-        menu2.setCategoryMenu("Minuman");
+        menu2.setCategoryMenu("Minuan");
         menu2.setPrice(6000);
 
         Menu menu3 = new Menu();
