@@ -11,7 +11,7 @@ public class MainApp {
         Laptop1.kirimEmail("Reyhan@gmail.com", "Ashuri@gmail.com");
         System.out.println("");
 
-        Handphone Handphone1 = new Handphone("Sandisk", 4, (float) 2.60, false);
+        Handphone Handphone1 = new Handphone("Toshiba", 4, (float) 2.60, false);
         Handphone1.informasi();
         Handphone1.telfon(62853468);
         Handphone1.kirimSMS(62853468);
